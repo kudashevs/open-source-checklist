@@ -1,5 +1,8 @@
 ## Open-source contribution checklist
 
+This checklist will help you in contributing to open-source projects. The goal of the checklist is to remind about the
+important steps and make you contributing process as easy and smooth as possible.
+
 - [ ] pick a project
 - [ ] check the latest activity or check the issues
 - [ ] read CONTRIBUTING.md if any
