@@ -12,3 +12,8 @@
 - [ ] create a pull request (PR) and check that all tests/actions pass
 - [ ] when the PR is accepted don't forget to delete the branch
 - [ ] update the project's documentation
+
+
+## License
+
+The MIT License (MIT). Please see the [License File](LICENSE.md) for more information.
