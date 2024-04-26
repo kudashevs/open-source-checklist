@@ -11,3 +11,4 @@
 - [ ] push your changes to origin
 - [ ] create a pull request (PR) and check that all tests/actions pass
 - [ ] when the PR is accepted don't forget to delete the branch
+- [ ] update the project's documentation
