@@ -9,13 +9,12 @@ important steps and make you contributing process as easy and smooth as possible
 - [ ] fork the project
 - [ ] clone the project locally
 - [ ] add remote upstream 
-- [ ] create new branch
-- [ ] add new feature (don't forget about tests)
+- [ ] create a new development branch
+- [ ] add a new feature (don't forget about tests)
 - [ ] fetch upstream and rebase to the main branch
 - [ ] push your changes to origin
 - [ ] create a pull request (PR) and check that all tests/actions pass
-- [ ] when the PR is accepted don't forget to delete the branch
-- [ ] update the project's documentation
+- [ ] don't forget to update the project's documentation
 
 
 ## License
