@@ -7,6 +7,7 @@ important steps and make you contributing process as easy and smooth as possible
 - [ ] check the latest activity or check the issues
 - [ ] read CONTRIBUTING.md if any
 - [ ] fork the project
+- [ ] clone the project locally
 - [ ] add remote upstream 
 - [ ] create new branch
 - [ ] add new feature (don't forget about tests)
