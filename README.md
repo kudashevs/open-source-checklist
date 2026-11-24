@@ -19,4 +19,4 @@ important steps and make you contributing process as easy and smooth as possible
 
 ## License
 
-The MIT License (MIT). Please see the [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see the [License File](LICENSE) for more information.
